@@ -1,0 +1,16 @@
+body {
+    font-family: garamond, Arial;
+    font-style: normal;
+    text-align: left;
+    background-color: #fcccf8;
+    letter-spacing: normal;
+    word-spacing: 10px;
+}
+p ul {
+    text-align: left; 
+    
+}
+
+#titulo {
+    text-align: center;
+}
